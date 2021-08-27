@@ -2,3 +2,7 @@
 # senai-versoes-colaboracoes
 repositório de versões e colaborações
 ## edição comentada por ✨Gabriel Franco✨
+
+readme de exemplo
+
+lembrei do comando: git status
