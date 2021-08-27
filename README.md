@@ -4,5 +4,11 @@ repositório de versões e colaborações
 ## edição comentada por ✨Gabriel Franco✨
 
 
+
 lembrei do comando: git commit
 123
+
+readme de exemplo
+
+lembrei do comando: git status
+
