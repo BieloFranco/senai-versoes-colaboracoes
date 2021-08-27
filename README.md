@@ -2,3 +2,7 @@
 # senai-versoes-colaboracoes
 repositório de versões e colaborações
 ## edição comentada por ✨Gabriel Franco✨
+
+
+lembrei do comando: git commit
+123
